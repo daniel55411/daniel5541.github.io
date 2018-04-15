@@ -5,7 +5,7 @@ permalink:           pretty
 title:               Digests
 tagline:             d4n13l
 url:                 http://getpoole.com
-paginate:            3
+paginate:            1
 baseurl:             ""
 
 # Assets
