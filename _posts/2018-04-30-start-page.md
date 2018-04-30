@@ -18,3 +18,6 @@
 Весь код проекта будет находиться [здесь](https://github.com/daniel55411/test-akka-with-kafka)
 
 Поехали!
+
+Полезные ссылки:
+- [Managing configuration of a distributed system with Apache ZooKeeper](https://sysgears.com/articles/managing-configuration-of-distributed-system-with-apache-zookeeper/)
