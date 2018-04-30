@@ -21,5 +21,6 @@
 
 Поехали!
 
-Полезные ссылки:
+
+*Полезные ссылки*:
 - [Managing configuration of a distributed system with Apache ZooKeeper](https://sysgears.com/articles/managing-configuration-of-distributed-system-with-apache-zookeeper/)
