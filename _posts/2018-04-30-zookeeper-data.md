@@ -15,12 +15,11 @@
 ### Структура
 
 - `zookeepeer.example`
-  - `flow`
-    - `ConfigLoader` - наследуется от ZKClient, отвечает за выгрузку конфигов по указанным узлам
-    - `PropertiesConverter` - преобразует конфиги с точечной нотацией в пространство имен zookeeper
-    - `PropertiesParser` - парсер конфигов из строки
-    - `Runner` - запуск площадки
-    - `SettingsReader` - наследуется от ZKClient, отвечает за получение конфигов из указанных узлов
+  - `ConfigLoader` - наследуется от ZKClient, отвечает за выгрузку конфигов по указанным узлам
+  - `PropertiesConverter` - преобразует конфиги с точечной нотацией в пространство имен zookeeper
+  - `PropertiesParser` - парсер конфигов из строки
+  - `Runner` - запуск площадки
+  - `SettingsReader` - наследуется от ZKClient, отвечает за получение конфигов из указанных узлов
   - `ZKClient` - создает клиента curator framework для упрощенной работы с zookeeper
   
 Весь код доступен в [репозитории](https://github.com/daniel55411/test-akka-with-kafka/tree/master/src/main/java/examples/kafka/zookeeper/example)
