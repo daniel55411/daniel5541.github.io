@@ -22,7 +22,7 @@
     4. устойчивы (при успешном выполнении гарантируется, что результат не исчезнет);
     
 2. Методы создания транзакций в Apache Curator 
-  ```Java
+  ```javascript
   CuratorOp op1 = client.transactionOp().create().forPath(path, payload);
   
   client.transtraction().forOperaions(op1);
