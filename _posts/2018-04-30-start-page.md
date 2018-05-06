@@ -25,3 +25,4 @@
 *Полезные ссылки*:
 - [Managing configuration of a distributed system with Apache ZooKeeper](https://sysgears.com/articles/managing-configuration-of-distributed-system-with-apache-zookeeper/)
 - [Обзор возможностей библиотеки Apache Curator для Apache Zookeeper](https://habr.com/post/334680/)
+- [Концепции распределенной архитектуры, с которыми я познакомился при построении крупной системы платежей](https://habr.com/post/353734/)
