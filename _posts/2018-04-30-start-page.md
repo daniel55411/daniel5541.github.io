@@ -1,4 +1,4 @@
-
+[Чек-лист заданий](https://daniel55411.github.io/2018/04/29/check-list/)
 [Полный список дайджестов](https://daniel55411.github.io/2018/04/29/table-of-contents/)
 
 ## Исселодовательская задача: Kafka with akka 
