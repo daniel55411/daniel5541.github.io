@@ -1,4 +1,5 @@
 Все дайджесты:
-1. [Start Page](https://daniel55411.github.io/2018/04/30/start-page/)
-2. [Zookeeper data. Part 1](https://daniel55411.github.io/2018/04/30/zookeeper-data-1/)
-3. [Zookeeper data. Part 2](https://daniel55411.github.io/2018/04/30/zookeeper-data-2/)
+1. [Check list](https://daniel55411.github.io/2018/04/29/check-list/)
+2. [Start Page](https://daniel55411.github.io/2018/04/30/start-page/)
+3. [Zookeeper data. Part 1](https://daniel55411.github.io/2018/04/30/zookeeper-data-1/)
+4. [Zookeeper data. Part 2](https://daniel55411.github.io/2018/04/30/zookeeper-data-2/)
