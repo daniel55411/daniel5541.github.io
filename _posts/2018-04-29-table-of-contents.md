@@ -4,3 +4,4 @@
 3. [Zookeeper data. Part 1](https://daniel55411.github.io/2018/04/30/zookeeper-data-1/)
 4. [Zookeeper data. Part 2](https://daniel55411.github.io/2018/04/30/zookeeper-data-2/)
 5. [Zookeeper data. Part 3](https://daniel55411.github.io/2018/05/07/zookeeper-data-3/)
+6. [Prioritizing. Part 1](https://daniel55411.github.io/2018/05/15/prioritizing-1/)
